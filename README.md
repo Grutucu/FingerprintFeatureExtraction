@@ -1,4 +1,4 @@
-#how to use
+# How to use
 copy your file into images and change it name as "parmak izi.bmp"
 
 run the main_enhancement.py file
