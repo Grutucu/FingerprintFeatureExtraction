@@ -1,3 +1,11 @@
+#how to use
+copy your file into images and change it name as "parmak izi.bmp"
+
+run the main_enhancement.py file
+You will see output images in enhance file
+The coordinates of minutiaes are in src/data.txt
+
+please dont forget to delete data.txt file. I didnt add code for clean it.
 # Fingerprint-Enhancement-Python
 
 Uses oriented gabor filter bank to enhance the fingerprint image. The orientation of the gabor filters is decided by the orientation of ridges in the input image. 
