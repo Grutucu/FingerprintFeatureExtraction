@@ -1,5 +1,5 @@
 # How to use
-copy your file into images and change it name as "parmak izi.bmp"
+copy your file into images and change it name as "parmak izi 1.bmp"
 
 run the main_enhancement.py file
 You will see output images in enhance file
